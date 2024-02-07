@@ -1,0 +1,4 @@
+SEAT,,Ibiza,,Negro,,Diesel,,20000
+Bugatti,,Veyron,,Azul,,Gasolina,,100000
+SEAT,,Leon,,Rojo,,Diesel,,10000
+Ferrari,,F40,,Rojo,,Gasolina,,0
